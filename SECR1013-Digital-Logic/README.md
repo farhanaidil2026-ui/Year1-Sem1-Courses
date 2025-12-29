@@ -14,7 +14,7 @@
 
 ### Course Description
 
-Digital Logic introduces the fundamental concepts that power modern computing systems. This course explores how computers process information using binary systems, logic gates, and digital circuits. Through Boolean algebra and systematic circuit design, students learn to build and analyze the hardware components that form the backbone of digital technology.
+Digital Logic is all about understanding how computers actually work at the hardware level. We learned how computers use binary (0s and 1s), logic gates, and circuits to process information. The course covered Boolean algebra and circuit design, which helped us figure out how to build and understand the actual physical parts that make computers run.
 
 ---
 
@@ -38,21 +38,21 @@ Digital Logic introduces the fundamental concepts that power modern computing sy
 
 ### Knowledge Gained
 
-Digital Logic opened my eyes to what happens beneath the software layer. Understanding how binary digits flow through logic gates to perform calculations gave me newfound appreciation for computer architecture. The progression from simple AND/OR gates to complex sequential circuits showed me how sophisticated systems emerge from basic building blocks.
+Taking Digital Logic really changed how I see computers. Before this, I only thought about software and coding, but now I understand what's actually happening inside the machine. Learning how binary numbers move through logic gates to do calculations was honestly pretty cool. Seeing how you can start with simple AND and OR gates and build them up into complicated circuits that can count, store data, and do all sorts of stuff was mind-blowing.
 
-**Practical Skills Developed:**
-- Circuit design and optimization using Boolean algebra
-- Truth table construction and analysis
-- Implementing combinational and sequential logic
-- Troubleshooting digital circuit behavior
+**Skills I Picked Up:**
+- Designing circuits and making them simpler using Boolean algebra
+- Creating and reading truth tables
+- Building both combinational and sequential logic circuits
+- Figuring out why circuits aren't working the way they should
 
 ### Personal Growth
 
-**Problem-Solving Enhancement**  
-Working through circuit simplification challenges sharpened my logical reasoning. Each problem required breaking down complex systems into manageable parts—a skill directly applicable to my future work in data engineering.
+**Better Problem-Solving**  
+The circuit simplification problems really helped me get better at thinking logically. Every problem was like a puzzle where you had to break down something complicated into smaller, easier pieces. That's definitely going to help me when I'm working with data engineering stuff later on.
 
-**Hardware-Software Connection**  
-This course bridged the gap between abstract programming concepts and physical hardware reality. Understanding how data moves through registers and counters helps me write more efficient code, knowing what's happening at the machine level.
+**Connecting the Dots**  
+This course was the bridge I needed between the code I write and what's actually happening in the hardware. Now when I'm coding, I have a better idea of how my data is moving through registers and counters inside the computer. It makes me think more about writing efficient code because I know what's going on behind the scenes.
 
 ---
 
@@ -60,22 +60,22 @@ This course bridged the gap between abstract programming concepts and physical h
 
 ### What Worked Well
 
-The laboratory sessions were invaluable. Physically building circuits and watching LEDs respond to logic inputs transformed abstract theory into tangible understanding. The hands-on approach made complex topics like flip-flops and shift registers much clearer.
+The lab sessions were definitely the best part. Actually building circuits with real components and seeing LEDs light up when you get the logic right made everything click. It's one thing to learn about flip-flops and shift registers on paper, but when you physically wire them up and see them work, it just makes way more sense.
 
 ### Suggestions for Enhancement
 
-Future iterations of this course could benefit from:
-- More simulation software practice (like Logisim or CircuitVerse)
-- Real-world application examples from modern processors
-- Mini-projects that combine multiple modules into one comprehensive design
+I think future classes could be even better with:
+- More time using simulation software like Logisim or CircuitVerse
+- Examples showing how these concepts are used in actual modern processors
+- Bigger projects where we combine everything we learned into one cool design
 
 ---
 
 ## 🎓 Closing Reflection
 
-SECR1013 has been instrumental in building my computer science foundation. As someone aspiring to work in data engineering, understanding how data is fundamentally stored and manipulated at the hardware level provides crucial context. The logical thinking and systematic design approaches I've developed will serve me throughout my academic journey and professional career.
+SECR1013 was super important for building my computer science foundation. Since I want to go into data engineering, knowing how data is actually stored and processed at the hardware level gives me a much better understanding of everything. The logical thinking and systematic approach to solving problems that I learned here will definitely stick with me through university and my future career.
 
-This course proved that even in our software-dominated world, hardware knowledge remains essential for anyone serious about computer science.
+Even though we live in a world where everyone's focused on software and apps, this course showed me that understanding hardware is still really important if you want to be serious about computer science.
 
 ---
 
