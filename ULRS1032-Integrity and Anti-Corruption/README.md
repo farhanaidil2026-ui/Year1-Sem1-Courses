@@ -14,7 +14,7 @@
 
 ### About This Course
 
-This course delves into the critical role of integrity and ethics in shaping both individual character and societal progress. Students examine Malaysia's comprehensive approach to combating corruption while learning how ethical principles form the foundation of trust in organizations and communities. The curriculum bridges theory with real-world applications, demonstrating that integrity transcends leadership—it's a universal responsibility.
+This course focuses on integrity and ethics, and how they shape who we are as individuals and as a society. We looked at how Malaysia tackles corruption issues and learned why ethical values matter so much in building trust whether in companies, communities, or even among friends. The best part? It's not just theory; we saw real examples of how integrity plays out in everyday life, proving it's not just for leaders but for everyone.
 
 ---
 
@@ -41,21 +41,21 @@ This course delves into the critical role of integrity and ethics in shaping bot
 
 ### What I Learned
 
-This course opened my eyes to how deeply corruption affects society—from weakening economies to eroding public trust. I gained insight into Malaysia's legal mechanisms and institutional efforts to promote transparency and accountability. Beyond the classroom discussions, I've come to understand that integrity isn't just about following rules; it's about making principled choices even when no one is watching.
+This course really opened my eyes to just how much damage corruption does. It's not just about money disappearing, it's about people losing faith in their government and each other. I learned about the laws and agencies Malaysia has set up to fight corruption, which was pretty interesting. But honestly, the biggest thing I took away is that integrity isn't just "don't break the rules." It's about choosing to do what's right even when you could easily get away with doing something shady and suspicious.
 
 ### Core Lessons
 
 **Ethics in Action**  
-Technical expertise alone won't define my career success. This course reinforced that ethical conduct must guide every decision I make, whether in coding projects, team collaborations, or future workplace scenarios.
+Being good at coding or data engineering won't mean much if I don't have strong ethics to back it up. This course hammered home the point that I need to think about the "right way" to do things, not just the "fast way" or the "easy way", whether that's working on a group project, writing code, or making decisions at work someday.
 
 **Room for Growth**  
-While the lectures were informative, I believe the course could benefit from more hands-on learning approaches. Case study analyses, simulation exercises, or even guest speakers from anti-corruption agencies would help students connect abstract concepts to real-world situations more effectively.
+The lectures were solid, but I think the class could be way more engaging with some practical activities. Maybe analyzing real corruption cases, doing role-play scenarios, or bringing in people from MACC to talk about their work. That kind of stuff would make the concepts stick better than just reading slides.
 
 ---
 
 ## 🌟 Final Thoughts
 
-Completing ULRS1032 has been more than fulfilling an academic requirement—it's been a character-building experience. The knowledge I've gained about ethical responsibility will influence how I approach my career in data engineering and beyond. I now recognize that creating a corruption-free society starts with individual commitment to integrity, and I'm motivated to carry these principles forward in all aspects of my life.
+Taking ULRS1032 was way more than just ticking off a graduation requirement. It actually made me think differently about how I want to live my life and approach my future career. The stuff I learned about ethics and accountability isn't just going to sit in my notes, I genuinely want to bring that mindset into whatever I do, especially as I get into data engineering. Fighting corruption starts with each person making better choices, and I'm ready to be part of that change.
 
 ---
 
