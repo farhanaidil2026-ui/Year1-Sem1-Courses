@@ -72,7 +72,7 @@ Sometimes the abstract nature of the material made it hard to stay motivated, so
 
 ## 🌟 Closing Thoughts
 
-SECI1013 showed me that math isn't just something you do separately from programming—it's actually the language that describes how computing works. Whether it's designing database schemas, optimizing algorithms, or understanding how compilers process code, the discrete mathematics I learned here provides the foundation.
+SECI1013 showed me that math isn't just something you do separately from programming, it's actually the language that describes how computing works. Whether it's designing database schemas, optimizing algorithms, or understanding how compilers process code, the discrete mathematics I learned here provides the foundation.
 
 As I move forward in data engineering, I know I'll be using these concepts constantly, even if I'm not explicitly solving math problems. Understanding the theory behind the tools makes me a better engineer.
 
