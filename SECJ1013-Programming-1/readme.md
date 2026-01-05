@@ -1,7 +1,7 @@
 # SECJ1013: Programming Technique 1
 
 > **Universiti Teknologi Malaysia (UTM)**  
-> Semester 2, 2024/2025
+> Semester 1, 2025/2026
 
 ---
 
