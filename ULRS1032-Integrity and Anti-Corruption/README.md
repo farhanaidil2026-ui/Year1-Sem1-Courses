@@ -1,7 +1,7 @@
 # ULRS1032: Integrity and Anti-Corruption
 
 > **Universiti Teknologi Malaysia (UTM)**  
-> Semester 2, 2024/2025
+> Semester 1, 2025/2026
 
 ---
 
