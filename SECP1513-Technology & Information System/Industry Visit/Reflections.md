@@ -20,12 +20,10 @@ Before the promised day come, I have to do some preparations to avoid looking cl
 
 ## 🎯 Learning Experience / Reflections
 
-This course built up my mathematical understanding of computer science fundamentals. I learned about set theory, relations, functions, and graph theory, all of which turned out to be way more relevant to programming than I initially thought. Understanding how logic works, how to construct proofs, and how combinatorics applies to real problems gave me a new perspective on algorithms and data structures.
+The experience of visiting JCorp's offices worth more than gold, providing me valuable insights into JCorp's history, technologies and business plans.
 
----
+I learned a lot of important things today, such as how artificial intelligence and cloud and be used to cut the cost of managing a locally based server. The presenter, Sir Nizam, shared with us about JCorp's step-by-step plan to change from local server to cloud.
 
-<div align="center">
-
-**"Mathematics is the alphabet with which God has written the universe."** – Galileo Galilei
+Other than that, we also learned that soft skills are really important to work in JCorp or in a company of similar league, proving that communications is just as important as individual intelligence.
 
 </div>
