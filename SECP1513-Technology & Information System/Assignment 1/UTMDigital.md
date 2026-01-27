@@ -7,7 +7,7 @@ We created a video about UTM Digital opening day.
 <br/>
 
 <a href="https://youtu.be/vRxUoKL11tk">
-  <img src="https://studio.youtube.com/video/QyiUcQaS0AU/edit" alt="Watch Video" />
+  <img src="https://youtu.be/QyiUcQaS0AU" alt="Watch Video" />
 </a>
 
 <br/>
